@@ -3,7 +3,7 @@ The repo for taking a csv file and visualising it with grafana!
 
 
 
-#Building this app
+# Building this app
 
 Would not recommend doing this as the sql connection, the grafana iframe and other things are hardcoded to local host. 
 
@@ -11,13 +11,13 @@ Have not had the time to do a docker build either, might get around to it in the
 
 
 
-#Screenshots
+# Screenshots
 
 Coming soon!
 
 
 
-#About the app:
+# About the app:
 
 Built on flask, I'm using a webpage to take csv files from the user. Then, the app connects to the sql database, cleans out the data and puts it in a table 'mytable' 
 
